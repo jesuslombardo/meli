@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+}
+
+#space{
+  display: block;
+  float:left;
+  margin-left: -50%;
+}
+
+form p {
+  display: inline-block;
+  width: 40%;
+}
+
+form {
+  padding-top: 100px;
+}
